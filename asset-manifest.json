@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/breaking-bad-api-react-project/static/css/main.5996b3b3.css",
+    "main.js": "/breaking-bad-api-react-project/static/js/main.4ddd8099.js",
+    "static/js/787.82f43767.chunk.js": "/breaking-bad-api-react-project/static/js/787.82f43767.chunk.js",
+    "static/media/black2.jpg": "/breaking-bad-api-react-project/static/media/black2.9e3fd7896435dc9b5771.jpg",
+    "static/media/logo.png": "/breaking-bad-api-react-project/static/media/logo.7777ba01eeed3fd33beb.png",
+    "index.html": "/breaking-bad-api-react-project/index.html",
+    "main.5996b3b3.css.map": "/breaking-bad-api-react-project/static/css/main.5996b3b3.css.map",
+    "main.4ddd8099.js.map": "/breaking-bad-api-react-project/static/js/main.4ddd8099.js.map",
+    "787.82f43767.chunk.js.map": "/breaking-bad-api-react-project/static/js/787.82f43767.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5996b3b3.css",
+    "static/js/main.4ddd8099.js"
+  ]
+}
